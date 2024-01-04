@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  #mensagem {
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+    margin-top: 20px;
+    display: none;
+  }
+  
